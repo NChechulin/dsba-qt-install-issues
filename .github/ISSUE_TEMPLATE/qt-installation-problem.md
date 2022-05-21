@@ -16,16 +16,18 @@ In order to check the box place the "x" symbol in there: [x].
 Click preview to ensure it renders correctly
 -->
 
-## OS Information
+## Versions
 
-**OS:**: 
-**Version:**
+**OS Name:**: 
+**OS Version:**
+**Qt Version:**
 
 <!--
 Try to be as specific as possible
 Example:
-**OS:**: Arch Linux
-**Version:** 5.17.5-arch1-1
+**OS Name:**: Arch Linux
+**OS Version:** 5.17.5-arch1-1
+**Qt Version:** qtcreator-7.0.1-2-x86_64
 -->
 
 ## What have you been doing
