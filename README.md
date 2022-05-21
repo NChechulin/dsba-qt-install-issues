@@ -1,4 +1,4 @@
-# dsba-qt-install-issues
+# DSBA QT Install Issues
 I will throw away this repo in 2 weeks if I don't forget....
 
 ## Instructions
