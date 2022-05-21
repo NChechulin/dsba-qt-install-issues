@@ -18,7 +18,7 @@ Click preview to ensure it renders correctly
 
 ## Versions
 
-**OS Name:**: 
+**OS Name:**
 **OS Version:**
 **Qt Version:**
 
