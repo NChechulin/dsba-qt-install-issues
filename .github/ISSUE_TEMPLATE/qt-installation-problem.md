@@ -9,7 +9,7 @@ assignees: ''
 
 ## Very important
 
-[ ] I have checked closed issues, and I am sure that there is no solution to my problem in the comments
+- [ ] I have checked closed issues, and I am sure that there is no solution to my problem in the comments
 
 <!--
 In order to check the box place the "x" symbol in there: [x].
@@ -19,7 +19,9 @@ Click preview to ensure it renders correctly
 ## Versions
 
 **OS Name:**
+
 **OS Version:**
+
 **Qt Version:**
 
 <!--
